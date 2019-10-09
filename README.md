@@ -1,8 +1,14 @@
 # websocket
 基于websocket的俄罗斯方块小游戏
 
-## 课程学习笔记
-### websocket简介
+### 慕课课程
+基于Websocket的火拼俄罗斯（基础）：https://www.imooc.com/learn/861
+
+### 课程过程demo
+github地址： https://github.com/cbat01/websocket_game1
+
+### 课程学习笔记
+#### websocket简介
 * 官网：http://www.websocket.org/
 * 基于HTML5，是HTML5中的新技术
 * web端的socket，server和client可以互相发送消息
